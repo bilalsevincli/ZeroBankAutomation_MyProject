@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         features = "src\\test\\resources\\features",
         glue = "com\\zerobank\\step_definitions",
         tags = "@EU7-153",
-        publish = true
+        publish = false
 
 
 )
